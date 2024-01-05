@@ -36,4 +36,4 @@
 > **Consulte [Mudanças de commit](https://github.com/maiconrq/sistema-integracao-pedidos/commits/view) para obter detalhes.**
 
 ## License / Licença
-[MIT License](https://github.com/maiconrq/sistema-integracao-pedidos/blob/view/LICENSE.txt) © [maiconrq](https://github.com/maiconrq)
+[MIT License](https://github.com/maiconrq/sistema-integracao-pedidos/blob/view/LICENSE) © [maiconrq](https://github.com/maiconrq)
