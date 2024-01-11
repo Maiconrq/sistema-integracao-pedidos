@@ -35,7 +35,7 @@
 > **Consulte [Mudanças de commit](https://github.com/maiconrq/sistema-integracao-pedidos/commits/view) para obter detalhes.**
 
 ## Next tasks / Próximas tarefas
-- create a Dockerfile for each module and then create a tescontainer of each module with respective database.
+- Dockerize each module with maven plugin and then create a tescontainer of each module with respective database.
 
 ## License / Licença
 [MIT License](https://github.com/maiconrq/sistema-integracao-pedidos/blob/view/LICENSE) © [maiconrq](https://github.com/maiconrq)
