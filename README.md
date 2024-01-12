@@ -36,6 +36,7 @@
 
 ## Next tasks / Próximas tarefas
 - Dockerize each module with maven plugin and then create a tescontainer of each module with respective database.
+- Create a Frontend to the project
 
 ## License / Licença
 [MIT License](https://github.com/maiconrq/sistema-integracao-pedidos/blob/view/LICENSE) © [maiconrq](https://github.com/maiconrq)
